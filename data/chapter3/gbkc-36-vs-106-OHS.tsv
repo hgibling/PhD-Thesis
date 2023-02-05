@@ -1,0 +1,153 @@
+Model	Method	TwoCorrect	OneCorrect	Top10	PRDM9List	Corrected	Truth
+count	coverage	13	40	19	36	F	T
+count	flank mean	13	41	19	36	F	T
+count	flank median	13	42	19	36	F	T
+distance	geomean	16	43	20	36	F	T
+distance	max	10	30	19	36	F	T
+distance	mean	15	44	19	36	F	T
+distance	sum	0	12	12	36	F	T
+combined	coverage & geomean	13	40	19	36	F	T
+combined	coverage & max	14	40	19	36	F	T
+combined	coverage & mean	14	40	19	36	F	T
+combined	coverage & sum	11	39	19	36	F	T
+combined	flank mean & geomean	11	40	19	36	F	T
+combined	flank mean & max	14	42	19	36	F	T
+combined	flank mean & mean	13	42	19	36	F	T
+combined	flank mean & sum	10	39	19	36	F	T
+combined	flank median & geomean	11	40	19	36	F	T
+combined	flank median & max	14	42	19	36	F	T
+combined	flank median & mean	13	42	19	36	F	T
+combined	flank median & sum	10	41	19	36	F	T
+count	coverage	3	26	15	36	T	T
+count	flank mean	3	25	15	36	T	T
+count	flank median	3	28	15	36	T	T
+distance	geomean	16	38	20	36	T	T
+distance	max	14	32	19	36	T	T
+distance	mean	16	43	20	36	T	T
+distance	sum	0	12	13	36	T	T
+combined	coverage & geomean	3	30	16	36	T	T
+combined	coverage & max	3	26	15	36	T	T
+combined	coverage & mean	3	28	16	36	T	T
+combined	coverage & sum	2	24	15	36	T	T
+combined	flank mean & geomean	3	28	15	36	T	T
+combined	flank mean & max	3	25	15	36	T	T
+combined	flank mean & mean	3	26	15	36	T	T
+combined	flank mean & sum	2	25	15	36	T	T
+combined	flank median & geomean	3	30	16	36	T	T
+combined	flank median & max	3	28	15	36	T	T
+combined	flank median & mean	3	29	16	36	T	T
+combined	flank median & sum	1	25	15	36	T	T
+count	coverage	16	44	28	36	F	F
+count	flank mean	16	46	27	36	F	F
+count	flank median	16	46	27	36	F	F
+distance	geomean	25	49	42	36	F	F
+distance	max	13	32	24	36	F	F
+distance	mean	27	39	42	36	F	F
+distance	sum	0	12	14	36	F	F
+combined	coverage & geomean	16	44	28	36	F	F
+combined	coverage & max	17	44	28	36	F	F
+combined	coverage & mean	17	44	28	36	F	F
+combined	coverage & sum	14	43	27	36	F	F
+combined	flank mean & geomean	14	43	27	36	F	F
+combined	flank mean & max	17	46	27	36	F	F
+combined	flank mean & mean	16	46	27	36	F	F
+combined	flank mean & sum	13	43	27	36	F	F
+combined	flank median & geomean	14	44	28	36	F	F
+combined	flank median & max	17	46	27	36	F	F
+combined	flank median & mean	16	46	27	36	F	F
+combined	flank median & sum	0	46	27	36	F	F
+count	coverage	3	27	18	36	T	F
+count	flank mean	3	27	18	36	T	F
+count	flank median	3	30	18	36	T	F
+distance	geomean	22	45	42	36	T	F
+distance	max	16	35	24	36	T	F
+distance	mean	26	48	42	36	T	F
+distance	sum	0	12	15	36	T	F
+combined	coverage & geomean	3	32	19	36	T	F
+combined	coverage & max	3	27	18	36	T	F
+combined	coverage & mean	3	29	19	36	T	F
+combined	coverage & sum	2	25	18	36	T	F
+combined	flank mean & geomean	3	30	18	36	T	F
+combined	flank mean & max	3	27	18	36	T	F
+combined	flank mean & mean	3	28	18	36	T	F
+combined	flank mean & sum	2	26	18	36	T	F
+combined	flank median & geomean	3	32	19	36	T	F
+combined	flank median & max	3	30	18	36	T	F
+combined	flank median & mean	3	31	19	36	T	F
+combined	flank median & sum	1	27	18	36	T	F
+count	coverage	15	43	22	106	F	T
+count	flank mean	14	45	21	106	F	T
+count	flank median	14	46	21	106	F	T
+distance	geomean	18	40	22	106	F	T
+distance	max	8	24	21	106	F	T
+distance	mean	18	46	22	106	F	T
+distance	sum	0	12	4	106	F	T
+combined	coverage & geomean	14	42	22	106	F	T
+combined	coverage & max	17	41	22	106	F	T
+combined	coverage & mean	16	42	22	106	F	T
+combined	coverage & sum	11	41	22	106	F	T
+combined	flank mean & geomean	11	45	21	106	F	T
+combined	flank mean & max	14	45	21	106	F	T
+combined	flank mean & mean	12	45	21	106	F	T
+combined	flank mean & sum	9	44	21	106	F	T
+combined	flank median & geomean	11	45	21	106	F	T
+combined	flank median & max	14	46	21	106	F	T
+combined	flank median & mean	12	46	21	106	F	T
+combined	flank median & sum	9	44	21	106	F	T
+count	coverage	0	18	11	106	T	T
+count	flank mean	0	18	11	106	T	T
+count	flank median	0	20	14	106	T	T
+distance	geomean	18	40	23	106	T	T
+distance	max	9	29	19	106	T	T
+distance	mean	19	46	23	106	T	T
+distance	sum	0	13	6	106	T	T
+combined	coverage & geomean	0	24	14	106	T	T
+combined	coverage & max	0	20	11	106	T	T
+combined	coverage & mean	0	22	13	106	T	T
+combined	coverage & sum	0	17	10	106	T	T
+combined	flank mean & geomean	0	21	14	106	T	T
+combined	flank mean & max	0	18	13	106	T	T
+combined	flank mean & mean	0	19	13	106	T	T
+combined	flank mean & sum	0	20	11	106	T	T
+combined	flank median & geomean	0	22	14	106	T	T
+combined	flank median & max	0	19	14	106	T	T
+combined	flank median & mean	0	21	14	106	T	T
+combined	flank median & sum	0	19	13	106	T	T
+count	coverage	17	43	33	106	F	F
+count	flank mean	16	45	33	106	F	F
+count	flank median	16	46	33	106	F	F
+distance	geomean	21	43	28	106	F	F
+distance	max	8	25	21	106	F	F
+distance	mean	22	46	30	106	F	F
+distance	sum	0	12	4	106	F	F
+combined	coverage & geomean	16	42	34	106	F	F
+combined	coverage & max	19	41	34	106	F	F
+combined	coverage & mean	18	42	34	106	F	F
+combined	coverage & sum	13	42	34	106	F	F
+combined	flank mean & geomean	13	46	33	106	F	F
+combined	flank mean & max	16	46	34	106	F	F
+combined	flank mean & mean	14	46	33	106	F	F
+combined	flank mean & sum	11	45	34	106	F	F
+combined	flank median & geomean	13	46	34	106	F	F
+combined	flank median & max	16	46	34	106	F	F
+combined	flank median & mean	14	46	34	106	F	F
+combined	flank median & sum	11	45	34	106	F	F
+count	coverage	0	18	11	106	T	F
+count	flank mean	0	18	11	106	T	F
+count	flank median	0	20	14	106	T	F
+distance	geomean	20	43	30	106	T	F
+distance	max	9	29	20	106	T	F
+distance	mean	24	47	34	106	T	F
+distance	sum	0	13	6	106	T	F
+combined	coverage & geomean	0	24	14	106	T	F
+combined	coverage & max	0	20	11	106	T	F
+combined	coverage & mean	0	22	13	106	T	F
+combined	coverage & sum	0	17	10	106	T	F
+combined	flank mean & geomean	0	21	14	106	T	F
+combined	flank mean & max	0	18	13	106	T	F
+combined	flank mean & mean	0	19	13	106	T	F
+combined	flank mean & sum	0	20	11	106	T	F
+combined	flank median & geomean	0	22	14	106	T	F
+combined	flank median & max	0	19	14	106	T	F
+combined	flank median & mean	0	21	14	106	T	F
+combined	flank median & sum	0	19	13	106	T	F
