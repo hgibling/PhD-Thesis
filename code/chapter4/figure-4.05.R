@@ -3,11 +3,11 @@ library(tidyr)
 library(ggplot2)
 library(cowplot)
 
-self.stats.dat <- read.csv("data/chapter4/all-graphs-self-stats.csv", header=T) 
+self.stats.data <- read.csv("data/chapter4/all-graphs-self-stats.csv", header=T) 
 
 allele.names <- c(LETTERS[1:5], paste0("L", 1:24), paste0("L", 32:38))
 
-self.stats <- self.stats.dat %>%
+self.stats <- self.stats.data %>%
   mutate(PropReadsNoMapRef=NumReadsNoMapRef/NumReads,
          PropReadsNoMapGraph=NumReadsNoMapGraph/NumReads,
          Aligner=case_when(
