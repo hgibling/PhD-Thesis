@@ -1,0 +1,373 @@
+H	VN:Z:1.1
+S	1	C
+S	2	TTTAGCTGGAAGTCACACCTCCTCATTCACCAGAGGATACACACAGGGGAGAAGCCCTATGTCT
+S	3	GCAGGGAGTGTGGGCGGGGCTTTAGC
+S	4	T
+S	5	C
+S	6	GGCAG
+S	7	GCAG
+S	8	GGAG
+S	9	TGTGGGCG
+S	10	TGTG
+S	11	GGCG
+S	12	GGGCTTTA
+S	13	GCCGGCAGTCAG
+S	14	TCCT
+S	15	CCTC
+S	16	ACTCACCAGAGG
+S	17	GGGC
+S	18	TTTA
+S	19	GCTG
+S	20	GCAG
+S	21	GCAG
+S	22	TCAG
+S	23	TCCTCCTCACTC
+S	24	TCAG
+S	25	T
+S	26	TCAGTCCTCCTCACTCACCAGAGG
+S	27	CCTCCTCA
+S	28	C
+S	29	G
+S	30	TC
+S	31	ACCAGAGGACAC
+S	32	ACCAGAGG
+S	33	A
+S	34	C
+S	35	G
+S	36	AC
+S	37	ACAC
+S	38	ACACAGGG
+S	39	GAGA
+S	40	AGCCCTATGTCTGCAGGGAG
+S	41	TCCT
+S	42	CCTC
+S	43	ACTCACCAGAGG
+S	44	ACACACAC
+S	45	AGGG
+S	46	GAGAAGCC
+S	47	AGGGGAGAAGCCCTATGTCTGCAG
+S	48	GGAGTGTG
+S	49	GGCGGGGCTTTA
+S	50	GCCGGCAGTCAG
+S	51	AGACACACAGGGGAGAAGCC
+S	52	CT
+S	53	T
+S	54	CTATGTCT
+S	55	A
+S	56	TGTCTGCAG
+S	57	GGAG
+S	58	TGTCTGCAG
+S	59	GGAG
+S	60	TGTG
+S	61	TGT
+S	62	G
+S	63	A
+S	64	GGCG
+S	65	GGGC
+S	66	TTTA
+S	67	G
+S	68	AGATAAGTCA
+S	69	C
+S	70	TG
+S	71	A
+S	72	A
+S	73	A
+S	74	G
+S	75	A
+S	76	CC
+S	77	CTAT
+S	78	GTCT
+S	79	GCAGGGAG
+S	80	GT
+S	81	C
+S	82	T
+S	83	TGCAGGGAG
+S	84	TGTGGGCGGGGC
+S	85	TTTA
+S	86	GAGAT
+S	87	A
+S	88	G
+S	89	AGTCA
+S	90	A
+S	91	C
+S	92	ACCTCCTCAGTCACCAGAGG
+S	93	ACAC
+S	94	ACAC
+S	95	AGGG
+S	96	GA
+S	97	G
+S	98	C
+S	99	A
+S	100	AGCC
+S	101	CTATGTCT
+S	102	GCAGGGAG
+S	103	TGTG
+S	104	TGTGGGCGGGGCTTTC
+S	105	T
+S	106	GC
+S	107	A
+S	108	G
+S	109	GGCGGGGCTTTAGCAATAAG
+S	110	TCAC
+S	111	GGCGGGGCTTTA
+S	112	G
+S	113	C
+S	114	TGGC
+S	115	A
+S	116	G
+S	117	ATA
+S	118	AG
+S	119	TCA
+S	120	CA
+S	121	GT
+S	122	CCT
+S	123	ATAAG
+S	124	TCAC
+S	125	ACCT
+S	126	CCTC
+S	127	ACCTCCTC
+S	128	AGCC
+S	129	CTATGTCTGCAGGGAGTGTGGGCGGGGCTTTCGCGATAAGTCACACCT
+S	130	CCTCAGACACCAGAGG
+S	131	ACAC
+S	132	ACAC
+S	133	AGGG
+S	134	CCTC
+S	135	AGACACCAGAGG
+S	136	AGACACCAGAGG
+S	137	ACAC
+S	138	ACACAGGGGAGA
+S	139	ACACAGGG
+S	140	G
+S	141	A
+S	142	ACACACACAGGGGAGAAGCCCTA
+S	143	C
+S	144	T
+S	145	GTCTGCAGGGAGTGTGGGCGGGGCTTTAGCGATAGGTCAAGCCTCTGCTATCACCAGAGG
+S	146	AGA
+S	147	AGCC
+S	148	CTAT
+S	149	A
+L	1	+	18	+	*
+L	1	+	2	+	*
+L	2	+	3	+	*
+L	2	+	7	+	*
+L	3	+	4	+	*
+L	3	+	5	+	*
+L	4	+	6	+	*
+L	5	+	6	+	*
+L	6	+	26	+	*
+L	7	+	59	+	*
+L	7	+	8	+	*
+L	54	+	7	+	*
+L	8	+	9	+	*
+L	8	+	10	+	*
+L	47	+	8	+	*
+L	9	+	17	+	*
+L	10	+	11	+	*
+L	57	+	10	+	*
+L	11	+	12	+	*
+L	11	+	17	+	*
+L	48	+	11	+	*
+L	12	+	50	+	*
+L	12	+	13	+	*
+L	13	+	41	+	*
+L	13	+	14	+	*
+L	14	+	15	+	*
+L	14	+	42	+	*
+L	15	+	43	+	*
+L	15	+	16	+	*
+L	16	+	51	+	*
+L	17	+	18	+	*
+L	64	+	17	+	*
+L	18	+	19	+	*
+L	19	+	21	+	*
+L	19	+	20	+	*
+L	66	+	19	+	*
+L	20	+	24	+	*
+L	21	+	22	+	*
+L	21	+	24	+	*
+L	21	+	26	+	*
+L	70	+	21	+	*
+L	22	+	25	+	*
+L	22	+	23	+	*
+L	23	+	32	+	*
+L	24	+	25	+	*
+L	25	+	27	+	*
+L	26	+	44	+	*
+L	27	+	28	+	*
+L	27	+	29	+	*
+L	72	+	27	+	*
+L	28	+	30	+	*
+L	29	+	30	+	*
+L	30	+	31	+	*
+L	30	+	32	+	*
+L	31	+	38	+	*
+L	32	+	33	+	*
+L	33	+	35	+	*
+L	33	+	34	+	*
+L	43	+	33	+	*
+L	34	+	36	+	*
+L	35	+	36	+	*
+L	36	+	38	+	*
+L	36	+	37	+	*
+L	37	+	45	+	*
+L	38	+	39	+	*
+L	38	+	46	+	*
+L	38	+	96	+	*
+L	39	+	40	+	*
+L	39	+	73	+	*
+L	40	+	60	+	*
+L	41	+	42	+	*
+L	50	+	41	+	*
+L	42	+	43	+	*
+L	43	+	51	+	*
+L	43	+	44	+	*
+L	44	+	45	+	*
+L	44	+	47	+	*
+L	45	+	46	+	*
+L	46	+	54	+	*
+L	47	+	48	+	*
+L	48	+	49	+	*
+L	49	+	50	+	*
+L	51	+	54	+	*
+L	51	+	52	+	*
+L	52	+	55	+	*
+L	52	+	53	+	*
+L	53	+	56	+	*
+L	55	+	56	+	*
+L	55	+	58	+	*
+L	56	+	59	+	*
+L	56	+	57	+	*
+L	58	+	59	+	*
+L	59	+	61	+	*
+L	60	+	109	+	*
+L	79	+	60	+	*
+L	61	+	63	+	*
+L	61	+	62	+	*
+L	83	+	61	+	*
+L	62	+	64	+	*
+L	63	+	64	+	*
+L	64	+	65	+	*
+L	65	+	66	+	*
+L	66	+	86	+	*
+L	66	+	67	+	*
+L	84	+	66	+	*
+L	67	+	69	+	*
+L	67	+	68	+	*
+L	68	+	71	+	*
+L	68	+	69	+	*
+L	69	+	72	+	*
+L	69	+	70	+	*
+L	71	+	72	+	*
+L	73	+	75	+	*
+L	73	+	74	+	*
+L	146	+	73	+	*
+L	138	+	73	+	*
+L	74	+	76	+	*
+L	75	+	76	+	*
+L	76	+	77	+	*
+L	77	+	78	+	*
+L	77	+	80	+	*
+L	100	+	77	+	*
+L	78	+	102	+	*
+L	78	+	79	+	*
+L	79	+	104	+	*
+L	80	+	82	+	*
+L	80	+	81	+	*
+L	148	+	80	+	*
+L	81	+	83	+	*
+L	82	+	83	+	*
+L	83	+	84	+	*
+L	84	+	85	+	*
+L	85	+	86	+	*
+L	86	+	87	+	*
+L	86	+	88	+	*
+L	87	+	89	+	*
+L	88	+	89	+	*
+L	89	+	90	+	*
+L	89	+	91	+	*
+L	90	+	92	+	*
+L	91	+	92	+	*
+L	92	+	93	+	*
+L	92	+	131	+	*
+L	93	+	94	+	*
+L	93	+	132	+	*
+L	94	+	133	+	*
+L	94	+	95	+	*
+L	95	+	96	+	*
+L	96	+	98	+	*
+L	96	+	97	+	*
+L	97	+	99	+	*
+L	98	+	99	+	*
+L	99	+	100	+	*
+L	99	+	128	+	*
+L	100	+	101	+	*
+L	101	+	102	+	*
+L	102	+	103	+	*
+L	102	+	104	+	*
+L	103	+	111	+	*
+L	103	+	109	+	*
+L	104	+	106	+	*
+L	104	+	105	+	*
+L	104	+	112	+	*
+L	105	+	113	+	*
+L	106	+	108	+	*
+L	106	+	107	+	*
+L	107	+	123	+	*
+L	108	+	123	+	*
+L	109	+	110	+	*
+L	109	+	124	+	*
+L	110	+	127	+	*
+L	110	+	125	+	*
+L	111	+	112	+	*
+L	112	+	113	+	*
+L	113	+	114	+	*
+L	113	+	116	+	*
+L	113	+	115	+	*
+L	114	+	118	+	*
+L	115	+	117	+	*
+L	116	+	117	+	*
+L	117	+	118	+	*
+L	118	+	124	+	*
+L	118	+	119	+	*
+L	119	+	120	+	*
+L	119	+	121	+	*
+L	120	+	122	+	*
+L	121	+	122	+	*
+L	122	+	134	+	*
+L	123	+	124	+	*
+L	124	+	125	+	*
+L	125	+	126	+	*
+L	125	+	134	+	*
+L	126	+	135	+	*
+L	127	+	136	+	*
+L	128	+	129	+	*
+L	128	+	148	+	*
+L	138	+	128	+	*
+L	129	+	130	+	*
+L	129	+	134	+	*
+L	130	+	131	+	*
+L	131	+	139	+	*
+L	131	+	132	+	*
+L	132	+	133	+	*
+L	133	+	140	+	*
+L	134	+	136	+	*
+L	134	+	135	+	*
+L	135	+	149	+	*
+L	135	+	142	+	*
+L	136	+	142	+	*
+L	136	+	137	+	*
+L	137	+	139	+	*
+L	137	+	138	+	*
+L	139	+	140	+	*
+L	139	+	141	+	*
+L	140	+	146	+	*
+L	141	+	146	+	*
+L	142	+	144	+	*
+L	142	+	143	+	*
+L	143	+	145	+	*
+L	144	+	145	+	*
+L	145	+	149	+	*
+L	146	+	147	+	*
+L	147	+	148	+	*

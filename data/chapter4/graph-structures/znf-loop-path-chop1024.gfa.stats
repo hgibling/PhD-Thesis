@@ -1,0 +1,58 @@
+nodes	45
+edges	82
+length	21778
+cyclic
+Degree	Sides	Nodes(min)	Nodes(max)	Nodes(total)
+0	2	2	0	0
+1	59	33	26	2
+2	13	4	9	24
+3	4	2	2	6
+4	5	1	4	5
+5	2	2	0	1
+6	1	1	0	1
+7	1	0	1	2
+8	3	0	3	0
+12	0	0	0	1
+13	0	0	0	3
++++Assembly summary+++: 
+# scaffolds: 0
+Total scaffold length: 0
+Average scaffold length: nan
+Scaffold N50: 0
+Scaffold auN: 0.00
+Scaffold L50: 0
+Largest scaffold: 0
+Smallest scaffold: 0
+# contigs: 0
+Total contig length: 0
+Average contig length: nan
+Contig N50: 0
+Contig auN: 0.00
+Contig L50: 0
+Largest contig: 0
+Smallest contig: 0
+# gaps in scaffolds: 0
+Total gap length in scaffolds: 0
+Average gap length in scaffolds: 0.00
+Gap N50 in scaffolds: 0
+Gap auN in scaffolds: 0.00
+Gap L50 in scaffolds: 0
+Largest gap in scaffolds: 0
+Smallest gap in scaffolds: 0
+Base composition (A:C:G:T): 0:0:0:0
+GC content %: nan
+# soft-masked bases: 0
+# segments: 45
+Total segment length: 21778
+Average segment length: 483.96
+# gaps: 0
+# paths: 0
+# edges: 82
+Average degree: 1.82
+# connected components: 1
+Largest connected component length: 21778
+# dead ends: 2
+# disconnected components: 0
+Total length disconnected components: 0
+# separated components: 1
+# bubbles: 4
