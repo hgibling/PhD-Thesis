@@ -1,0 +1,3 @@
+#!/bin/bash
+#$ -cwd
+/.mounts/labs/awadallalab/private/hgibling/gbkc/src/gbkc count -a /.mounts/labs/awadallalab/private/hgibling/PRDM9-Project/HMM/all-alleles.fa -f /.mounts/labs/awadallalab/private/hgibling/PRDM9-Project/HMM/flank10k.fa -1 /.mounts/labs/awadallalab/private/hgibling/PRDM9-Project/HMM/simulations/READS/diploid/100/reads/A-A-flank10k-100-bp-250-frag-100-x-e-0.01-i-2.r1.fq -2 /.mounts/labs/awadallalab/private/hgibling/PRDM9-Project/HMM/simulations/READS/diploid/100/reads/A-A-flank10k-100-bp-250-frag-100-x-e-0.01-i-2.r2.fq -c 100 -e 0.01 -l 100 -k 51 -K 71 -i 20 -d -m mean -o /.mounts/labs/awadallalab/private/hgibling/PRDM9-Project/HMM/simulations/manual-lambda/A-A-flank10k-100-bp-250-frag-100-x-e-0.01-i-1-lam-mean.csv
